@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=**********;database=********;user=********;password=*******;old guids=true;SslMode=None" MySql.Data.EntityFrameworkCore -OutputDir Data -Context MySQLDatabaseContext -f
